@@ -1,0 +1,9 @@
+a{
+    font-size: 70px;
+    color: black;
+    font-weight: bolder;
+}
+a:hover{
+
+   color: aqua;
+}

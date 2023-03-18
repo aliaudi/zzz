@@ -1,0 +1,16 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+
+nav{
+
+    color: rgb(249, 250, 240);
+    background-color: rgb(27, 25, 25);
+}
+a{
+    font-size: 30px;
+    color: rgb(240, 241, 237);
+    font-weight: bolder;
+    text-decoration: none;
+}

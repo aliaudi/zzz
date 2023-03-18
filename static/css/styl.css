@@ -1,0 +1,14 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+
+a{
+    font-size: 30px;
+    color: rgb(149, 190, 36);
+    font-weight: bolder;
+}
+a:hover{
+
+transition: all;
+}

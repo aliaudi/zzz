@@ -1,0 +1,14 @@
+{% extends 'index.html'%}
+{% block body  %}
+<div class="row">
+    <div class="col-6">   
+<img src="{{prodetail.img.url}}" class="img-fluid p-5" alt="" style="width:700px ;height:700px;">
+</div>
+<div class=" bg-dark" style="margin-top:100px ;  width:500px ; height:600px; ">   
+<div class="container">
+<h1 style="color:white ; margin:20px ;">{{prodetail.detail}}</h1>
+<h1 style="color:white ; margin:20px ;"> price:{{prodetail.price}}$</h1>
+</div>
+</div>
+</div>
+{% endblock body %}
